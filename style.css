@@ -1,8 +1,14 @@
 body{
-    background-color: black;
+    background-color:rgb(60, 34, 88) ;
     margin-top:50px;
 }
 
 h1{
-    color:white;
+    color:rgb(235, 97, 18);
+}
+
+.container{
+    margin-top:30px;
+    margin-bottom:30px;
+    background-color:rgb(255, 255, 255);
 }
